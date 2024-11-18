@@ -2,6 +2,14 @@
 
 ## folders
 
+### source data:
+
+https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset?resource=download
+
+### scraped data:
+
+https://www.imdb.com/chart/top/?ref_=nv_mv_250&sort=user_rating%2Cdesc
+
 ### raw
 
 original unmodified data
